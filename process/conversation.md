@@ -2,6 +2,23 @@
 
 *In which Jonathan and Pippin send version controlled messages to each other about whatever this thing turns out to be?*
 
+## Jonathan (2026-03-16)
+
+![](./images/2026-03-16-jonathan-discord-messages.png)
+
+### Jonathan Lessard — Yesterday at 15:29
+Hey I think there's really something to this "what is a bad game" conversation. Maybe we could identify a few "famously bad games", take not of what the criticism address, and have play session to see for ourselves.
+
+The bad hybrid is a really fun project, but I think there could also be a whole new method of taking a "bad thing" and trying to make it a good thing.
+
+For example that bad fighting game... apparently you have to hold a button for a few seconds before an attack launches, which is very frustrating because you can't have the quick reactions expected for this situation... is there a context in which this is a good idea?
+
+### Jonathan Lessard — Yesterday at 15:37
+of possible interest: https://dl.acm.org/doi/full/10.1145/3706598.3713246
+
+### Jonathan Lessard — Yesterday at 15:39
+or even better... is it possible to enjoy it as it is? maybe this was just too "avant garde" ??
+
 ## Pippin (2026-03-17)
 
 Well, I'm starting a repository like a good proponent of [Materializing Design](https://materializing.design).
